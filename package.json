@@ -17,13 +17,13 @@
     "email": "sahat@me.com",
     "url": "http://sahatyalkabov.com"
   },
-  "homepage": "https://github.com/sahat/satellizer",
+  "homepage": "https://github.com/atchariya/satellizer",
   "repository": {
     "type": "git",
-    "url": "https://github.com/sahat/satellizer.git"
+    "url": "https://github.com/atchariya/satellizer.git"
   },
   "bugs": {
-    "url": "https://github.com/sahat/satellizer/issues"
+    "url": "https://github.com/atchariya/satellizer/issues"
   },
   "license": "MIT",
   "devDependencies": {
